@@ -1,3 +1,3 @@
 return {
-    "Maadroob"
+    "maadroob"
 }
