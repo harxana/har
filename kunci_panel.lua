@@ -1,3 +1,3 @@
 return {
-    "harpromax"
+    "temanpintar3"
 }
