@@ -1,3 +1,3 @@
 return {
-    "EHOM6YANIbaik"
+    "harpromax"
 }
