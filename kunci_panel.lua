@@ -1,3 +1,3 @@
 return {
-    "BUNAGOKIELZ"
+    "H3H3H3926"
 }
