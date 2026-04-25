@@ -1,3 +1,3 @@
 return {
-    "hadi_1227"
+    "hardi_1227"
 }
