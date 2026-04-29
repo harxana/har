@@ -1,3 +1,3 @@
 return {
-    "5sonic_peed7"
+    "5sonic_speed7"
 }
