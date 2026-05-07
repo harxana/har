@@ -1,3 +1,3 @@
 return {
-    "Anaktiri978"
+    "anaktiri978"
 }
