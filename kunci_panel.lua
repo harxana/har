@@ -1,3 +1,6 @@
 return {
-    "harpromax"
+    "harpromax",
+    "FRIEDOREMI",
+    "Capitan_Richer",
+    "namaakun4"
 }
