@@ -2,6 +2,6 @@ return {
     "harpromax",
     "FRIEDOREMI",
     "ecasherxr",
-    "KINGxKEPET"
-    "razerxboy"
+    "KINGxKEPET",
+    "razerxboy",
 }
