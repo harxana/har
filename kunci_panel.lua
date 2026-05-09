@@ -1,7 +1,7 @@
 return {
     "harpromax",
     "FRIEDOREMI",
-    "Capitan_Richer",
+    "ecasherxr",
     "KINGxKEPET"
     "razerxboy"
 }
