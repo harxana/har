@@ -3,5 +3,5 @@ return {
     "FRIEDOREMI",
     "ecasherxr",
     "KINGxKEPET",
-    "razerxboy",
+    "razerxboy"
 }
