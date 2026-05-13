@@ -1,3 +1,3 @@
 return {
-    "KINGxKEPET"
+    "Accelerator6899"
 }
